@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I'm Clément, student in software architecture, achieving my master's degree. :books:
+I'm Clément, software architect for the realization of various applications oriented towards industry, medical and administrative. :books:
 
 Fascinated by IT development, in particular the ML. 🤖
